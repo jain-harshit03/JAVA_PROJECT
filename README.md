@@ -1,18 +1,18 @@
 # JAVA_PROJECT
-# A timetable management project
+## A timetable management project
 
-# AIM : To generate timetable automatically and provide access to students and teachers
+## AIM : To generate timetable automatically and provide access to students and teachers
 
-# Actors:-
+## Actors:-
 
-# Admin : Has the full access to software, can add courses, professors and assign required attributes to them, create batches and delete professors,batches
+### Admin : Has the full access to software, can add courses, professors and assign required attributes to them, create batches and delete professors,batches
 
-# Student/Teachers : Can view timetable
+### Student/Teachers : Can view timetable
 
-# Frontend : Using Java Swing and Java AWT => Implementation in frontend.java
+## Frontend : Using Java Swing and Java AWT => Implementation in frontend.java
 
-# Backend : SQL, connection to database JDBC => Implementation in SQL_Connect.java
+## Backend : SQL, connection to database JDBC => Implementation in SQL_Connect.java
 
-# Algorithm and implementation : Java
+## Algorithm and implementation : Java
 
-# Connector used : https://dev.mysql.com/downloads/connector/j/?os=26
+## Connector used : https://dev.mysql.com/downloads/connector/j/?os=26
